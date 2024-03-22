@@ -1,4 +1,4 @@
-# Gen-AI-Startup-School
+# Gen-AI-Startup-School (labs, notebooks, readings)
 
 ### Startup School: Gen AI - list of recommended labs and notebooks   
 https://github.com/QuantumAugust/GenAI-Startup-School/blob/main/ssgenai_labs_week6.pdf
